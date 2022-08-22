@@ -167,7 +167,7 @@ section {
     transform: translateY(0rem);
   }
   50% {
-    transform: translateY(3rem);
+    transform: rotateZ(180deg);
   }
 }
 
